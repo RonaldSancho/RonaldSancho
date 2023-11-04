@@ -16,7 +16,7 @@ I am currently finishing my degree in computer systems engineering. Both in the 
 <p align="left">
     <table>
         <tr>
-            <td valign="middle" width="33%">
+            <td valign="top" width="33%">
                 <h3 align="center">Programming Languages</h3>
                 <p align="center">
                     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
