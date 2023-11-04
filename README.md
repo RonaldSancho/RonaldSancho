@@ -132,5 +132,5 @@ I am currently finishing my degree in computer systems engineering. Both in the 
 
 <b>My GitHub Stats</b>
 
-![](./profile-3d-contrib/profile-night-green-view.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
 
