@@ -71,54 +71,6 @@ I am currently finishing my degree in computer systems engineering. Both in the 
                 </p>
             </td>
         </tr>
-            <tr>
-            <td valign="middle" width="33%">
-                <h3 align="center">Database</h3>
-                <p align="center">
-                    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
-                    alt="mysql" width="40" height="40"/></a>
-                    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" 
-                    alt="oracle" width="40" height="40"/></a>
-                    <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver" width="40" height="40"/></a>
-                    <a href="https://www.mongodb.com/docs/" target="_blank" rel="noreferrer"> 
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" 
-                    alt="mongodb" width="40" height="40"/></a>
-                    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" 
-                    alt="firebase" width="40" height="40"/></a>
-                </p>
-            </td>
-            <td valign="top" width="33%">
-                <h3 align="center">Software</h3>
-                <p align="center"> 
-                    <a href="https://github.com/github" target="_blank" rel="noreferrer"> 
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
-                    alt="github" width="40" height="40"/></a>
-                    <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
-                    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" 
-                    alt="postman" width="40" height="40"/></a>
-                    <a href="https://helpx.adobe.com/mx/xd/get-started.html" target="_blank" rel="noreferrer"> 
-                    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" 
-                    alt="adobexd" width="40" height="40"/></a>
-                </p>
-            </td>
-            <td valign="top" width="33%">
-                <h3 align="center">Others</h3>
-                <p align="center">
-                    <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> 
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" 
-                    alt="flutter" width="40" height="40"/></a>
-                    <a href="https://www.linix.com.co/" target="_blank" rel="noreferrer"> 
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" 
-                    alt="lunux" width="40" height="40"/></a>
-                    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
-                    alt="git" width="40" height="40"/></a>
-                </p>
-            </td>
-        </tr>
         <tr>
             <td valign="top" width="33%">
                 <h3 align="center">Programming Languages</h3>
