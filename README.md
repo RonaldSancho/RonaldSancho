@@ -13,7 +13,7 @@ I am currently finishing my degree in computer systems engineering. Both in the 
 
 <h3 align="center">Skills</h3>
 
-<p align="middle">
+<p align="center">
     <table>
         <tr>
             <td valign="top" width="33%">
