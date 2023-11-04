@@ -119,6 +119,62 @@ I am currently finishing my degree in computer systems engineering. Both in the 
                 </p>
             </td>
         </tr>
+        <tr>
+            <td valign="top" width="33%">
+                <h3 align="center">Programming Languages</h3>
+                <p align="center"> 
+                    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" 
+                    alt="csharp" width="40" height="40"/></a>
+                    <a href="https://dart.dev/" target="_blank" rel="noreferrer"> 
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" 
+                    alt="dart" width="40" height="40"/></a>
+                    <a href="https://go.dev/" target="_blank" rel="noreferrer"> 
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" 
+                    alt="go" width="40" height="40"/></a>
+                    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" 
+                    target="_blank" rel="noreferrer"> 
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/></a>
+                    <a href="https://pypi.org/" target="_blank" rel="noreferrer"> 
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
+                    alt="python" width="40" height="40"/></a>
+                </p>
+            </td>
+            <td valign="top" width="33%">
+                <h3 align="center">Frontend Development</h3>
+                <p align="center"> 
+                    <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
+                    alt="html" width="40" height="40"/></a>
+                    <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
+                    alt="react" width="40" height="40"/></a>
+                    <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS" target="_blank" rel="noreferrer"> 
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
+                    alt="css" width="40" height="40"/></a>
+                    <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" 
+                    alt="sass" width="40" height="40"/></a>
+                    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" 
+                    alt="bootstrap" width="40" height="40"/></a>
+                </p>
+            </td>
+            <td valign="top" width="33%">
+                <h3 align="center">Backend Development</h3>
+                <p align="center">
+                    <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" 
+                    alt="nodejs" width="40" height="40"/></a>
+                    <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" 
+                    alt="expressjs" width="40" height="40"/></a>
+                    <a href="https://learn.microsoft.com/en-us/dotnet/core/introduction" target="_blank" rel="noreferrer"> 
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" 
+                    alt="dotnetcore" width="40" height="40"/></a>
+                </p>
+            </td>
+        </tr>
     </table>
 </p>
 
