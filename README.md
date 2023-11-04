@@ -1,8 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ronald Sancho Díaz
-==========================================================================================================================================
+<h1 align="center">Hi!👋My name is Ronald Sancho</h1>
 
-I am a systems engineering student.
------------------------------------
+<h3 align="cemter">I am a systems engineering student</h3>
+
 
 I am currently finishing my degree in computer systems engineering. Both in the career and self-taught I have learned languages for FrontEnd and BanckEnd so I develop myself well as Full Stack Developer. I like to be constantly learning new technologies, creating solutions to current problems and listening to music.
 
@@ -12,27 +11,124 @@ I am currently finishing my degree in computer systems engineering. Both in the 
 * 🧠  I'm learning new languages, frameworks and technologies
 * ⚡  I'm doing some of these activities I also like to listen to music.
 
-### Skills
-
+<h3 align="cemter">Skills</h3>
 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+    <table>
+        <tr>
+            <td valign="middle" width="33%">
+                <h3 align="center">Programming Languages</h3>
+                <p align="center">
+                    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" 
+                    alt="csharp" width="40" height="40"/></a>
+                    <a href="https://dart.dev/" target="_blank" rel="noreferrer"> 
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" 
+                    alt="dart" width="40" height="40"/></a>
+                    <a href="https://go.dev/" target="_blank" rel="noreferrer"> 
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" 
+                    alt="go" width="40" height="40"/></a>
+                    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" 
+                    target="_blank" rel="noreferrer"> 
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/></a>
+                    <a href="https://pypi.org/" target="_blank" rel="noreferrer"> 
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
+                    alt="python" width="40" height="40"/></a>
+                </p>
+            </td>
+            <td valign="top" width="33%">
+                <h3 align="center">Frontend Development</h3>
+                <p align="center"> 
+                    <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
+                    alt="html" width="40" height="40"/></a>
+                    <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
+                    alt="react" width="40" height="40"/></a>
+                    <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS" target="_blank" rel="noreferrer"> 
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
+                    alt="css" width="40" height="40"/></a>
+                    <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" 
+                    alt="sass" width="40" height="40"/></a>
+                    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" 
+                    alt="bootstrap" width="40" height="40"/></a>
+                </p>
+            </td>
+            <td valign="top" width="33%">
+                <h3 align="center">Backend Development</h3>
+                <p align="center">
+                    <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" 
+                    alt="nodejs" width="40" height="40"/></a>
+                    <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" 
+                    alt="expressjs" width="40" height="40"/></a>
+                    <a href="https://learn.microsoft.com/en-us/dotnet/core/introduction" target="_blank" rel="noreferrer"> 
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" 
+                    alt="dotnetcore" width="40" height="40"/></a>
+                </p>
+            </td>
+        </tr>
+                <tr>
+            <td valign="middle" width="33%">
+                <h3 align="center">Database</h3>
+                <p align="center">
+                    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
+                    alt="mysql" width="40" height="40"/></a>
+                    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" 
+                    alt="oracle" width="40" height="40"/></a>
+                    <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver" width="40" height="40"/></a>
+                    <a href="https://www.mongodb.com/docs/" target="_blank" rel="noreferrer"> 
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" 
+                    alt="mongodb" width="40" height="40"/></a>
+                    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" 
+                    alt="firebase" width="40" height="40"/></a>
+                </p>
+            </td>
+            <td valign="top" width="33%">
+                <h3 align="center">Software</h3>
+                <p align="center"> 
+                    <a href="https://github.com/github" target="_blank" rel="noreferrer"> 
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+                    alt="github" width="40" height="40"/></a>
+                    <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
+                    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" 
+                    alt="postman" width="40" height="40"/></a>
+                    <a href="https://helpx.adobe.com/mx/xd/get-started.html" target="_blank" rel="noreferrer"> 
+                    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" 
+                    alt="adobexd" width="40" height="40"/></a>
+                </p>
+            </td>
+            <td valign="top" width="33%">
+                <h3 align="center">Others</h3>
+                <p align="center">
+                    <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> 
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" 
+                    alt="flutter" width="40" height="40"/></a>
+                    <a href="https://www.linix.com.co/" target="_blank" rel="noreferrer"> 
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" 
+                    alt="lunux" width="40" height="40"/></a>
+                    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
+                    alt="git" width="40" height="40"/></a>
+                </p>
+            </td>
+        </tr>
+    </table>
 </p>
-
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/RonaldSancho" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/_ronaldsancho_/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/aronaldsancho" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> 
 
-### Badges
+</p>
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/RonaldSancho"><img src="https://github-readme-stats.vercel.app/api?username=RonaldSancho&show_icons=true&hide=stars,issues,&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=64748b&bg_color=171717&hide_border=true&show_icons=true" alt="RonaldSancho's GitHub stats" /></a>
-
-<a href="http://www.github.com/RonaldSancho"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RonaldSancho&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/RonaldSancho"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=RonaldSancho&bg_color=171717&color=ffffff&line=64748b&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/RonaldSancho" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldSancho&langs_count=5&title_color=3382ed&text_color=ffffff&icon_color=64748b&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<!-- ![](./profile-3d-contrib/profile-night-view.svg) -->
 
