@@ -132,9 +132,5 @@ I am currently finishing my degree in computer systems engineering. Both in the 
 
 <b>My GitHub Stats</b>
 
-<div align="center"> <a> <img src="https://github.com/RonaldSancho/RonaldSancho/blob/master/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
-
 ![](./profile-3d-contrib/profile-green-animate.svg)
-
-<!-- ![](./profile-3d-contrib/profile-night-view.svg) -->
 
