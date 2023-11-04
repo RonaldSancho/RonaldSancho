@@ -11,17 +11,17 @@ I am currently finishing my degree in computer systems engineering. Both in the 
 * 🧠  I'm learning new languages, frameworks and technologies
 * ⚡  I'm doing some of these activities I also like to listen to music.
 
-<h3 align="cemter">Skills</h3>
+<h3 align="center">Skills</h3>
 
-<p align="left">
+<p align="middle">
     <table>
         <tr>
             <td valign="top" width="33%">
                 <h3 align="center">Programming Languages</h3>
                 <p align="center"> 
-                    <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
-                    alt="html" width="40" height="40"/></a>
+                    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" 
+                    alt="csharp" width="40" height="40"/></a>
                     <a href="https://dart.dev/" target="_blank" rel="noreferrer"> 
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" 
                     alt="dart" width="40" height="40"/></a>
@@ -71,7 +71,9 @@ I am currently finishing my degree in computer systems engineering. Both in the 
                 </p>
             </td>
         </tr>
-                <tr>
+    </table>
+    <table>
+        <tr>
             <td valign="middle" width="33%">
                 <h3 align="center">Database</h3>
                 <p align="center">
