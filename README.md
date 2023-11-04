@@ -13,8 +13,8 @@ I am currently finishing my degree in computer systems engineering. Both in the 
 
 <h3 align="center">Skills</h3>
 
-<p align="center">
-    <table style="background-color:#FFFFE0">
+<p align="middle">
+    <table>
         <tr>
             <td valign="top" width="33%">
                 <h3 align="center">Programming Languages</h3>
@@ -71,9 +71,7 @@ I am currently finishing my degree in computer systems engineering. Both in the 
                 </p>
             </td>
         </tr>
-    </table>
-    <table>
-        <tr>
+            <tr>
             <td valign="middle" width="33%">
                 <h3 align="center">Database</h3>
                 <p align="center">
