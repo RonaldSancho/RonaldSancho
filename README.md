@@ -1,6 +1,6 @@
 <h1 align="center">Hi!👋My name is Ronald Sancho</h1>
 
-<h3 align="cemter">I am a systems engineering student</h3>
+<h3 align="cemter">I am a systems engineer</h3>
 
 
 I am a recent graduate from Fidelitas University in Computer Systems Engineering. Both in the career and self-taught I have learned languages for FrontEnd and BanckEnd so I develop myself well as Full Stack Developer. I like to be constantly learning new technologies, creating solutions to current problems and listening to music.
