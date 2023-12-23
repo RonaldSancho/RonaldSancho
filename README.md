@@ -3,7 +3,7 @@
 <h3 align="cemter">I am a systems engineering student</h3>
 
 
-I am currently finishing my degree in computer systems engineering. Both in the career and self-taught I have learned languages for FrontEnd and BanckEnd so I develop myself well as Full Stack Developer. I like to be constantly learning new technologies, creating solutions to current problems and listening to music.
+I am a recent graduate from Fidelitas University in Computer Systems Engineering. Both in the career and self-taught I have learned languages for FrontEnd and BanckEnd so I develop myself well as Full Stack Developer. I like to be constantly learning new technologies, creating solutions to current problems and listening to music.
 
 * 🌍  I'm based in Costa Rica
 * 🖥️  See my portfolio at [Ronald Portfolio](http://ronaldsancho.github.io/Portfolio_Ronald/)
