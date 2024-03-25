@@ -69,7 +69,8 @@ I am a recent graduate of Fidelitas University in Computer Systems Engineering. 
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" 
                     alt="dotnetcore" width="40" height="40"/></a>
                     <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> 
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" /></a>
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+                    alt="springboot" width="40" height="40"/></a>
                 </p>
             </td>
         </tr>
