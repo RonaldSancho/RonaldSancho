@@ -3,7 +3,7 @@
 <h3 align="cemter">I am a systems engineer</h3>
 
 
-I am a recent graduate from Fidelitas University in Computer Systems Engineering. Both in the career and self-taught I have learned languages for FrontEnd and BanckEnd so I develop myself well as Full Stack Developer. I like to be constantly learning new technologies, creating solutions to current problems and listening to music.
+I am a recent graduate of Fidelitas University in Computer Systems Engineering. Currently, I work as a backend programmer, where I channel my passion for creating innovative solutions to current problems. I strive every day to keep up with new technologies and keep learning, while I also enjoy listening to music as a hobby.
 
 * 🌍  I'm based in Costa Rica
 * 🖥️  See my portfolio at [Ronald Portfolio](http://ronaldsancho.github.io/Portfolio_Ronald/)
@@ -68,6 +68,8 @@ I am a recent graduate from Fidelitas University in Computer Systems Engineering
                     <a href="https://learn.microsoft.com/en-us/dotnet/core/introduction" target="_blank" rel="noreferrer"> 
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" 
                     alt="dotnetcore" width="40" height="40"/></a>
+                    <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> 
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" /></a>
                 </p>
             </td>
         </tr>
@@ -99,9 +101,6 @@ I am a recent graduate from Fidelitas University in Computer Systems Engineering
                     <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
                     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" 
                     alt="postman" width="40" height="40"/></a>
-                    <a href="https://helpx.adobe.com/mx/xd/get-started.html" target="_blank" rel="noreferrer"> 
-                    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" 
-                    alt="adobexd" width="40" height="40"/></a>
                 </p>
             </td>
             <td valign="top" width="33%">
