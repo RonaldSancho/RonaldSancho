@@ -3,7 +3,8 @@
 <h3 align="cemter">I am a systems engineer</h3>
 
 
-I am a recent graduate of Fidelitas University in Computer Systems Engineering. Currently, I work as a backend programmer, where I channel my passion for creating innovative solutions to current problems. I strive every day to keep up with new technologies and keep learning, while I also enjoy listening to music as a hobby.
+I am a Computer Systems Engineer with experience working as a Backend Developer, specializing in Java, Spring Boot, ASP.NET Core, and JUnit Testing, focused on building scalable, efficient systems. Since graduating from Fidélitas University, I have worked on diverse projects, deepening my backend skills with PostgreSQL, MongoDB, and RESTful services. I am committed to continuous learning and contributing to
+innovative projects in the technology sector.
 
 * 🌍  I'm based in Costa Rica
 * 🖥️  See my portfolio at [Ronald Portfolio](http://ronaldsancho.github.io/Portfolio_Ronald/)
