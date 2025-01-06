@@ -151,6 +151,6 @@ music and exploring new tools to expand my skill set.
             src="https://github.com/RonaldSancho/RonaldSancho/blob/master/profile-3d-contrib/profile-night-green.svg"
             width="100%" /></div>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
 
 <!-- ![](./profile-3d-contrib/profile-night-view.svg) -->
