@@ -148,7 +148,7 @@ music and exploring new tools to expand my skill set.
 <b>My GitHub Stats</b>
 
 <div align="center"> <a> <img
-            src="https://github.com/RonaldSancho/RonaldSancho/blob/master/profile-3d-contrib/profile-night-rainbow.svg"
+            src="https://github.com/RonaldSancho/RonaldSancho/blob/master/profile-3d-contrib/profile-night-green.svg"
             width="100%" /></div>
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
