@@ -1,9 +1,14 @@
 <h1 align="center">Hi!👋My name is Ronald Sancho</h1>
 
-<h3 align="cemter">I am a systems engineering student</h3>
+<h3 align="cemter">I am a systems engineer</h3>
 
 
+<<<<<<< HEAD
 I am a recent graduate from Fidelitas University in Computer Systems Engineering. Both in the career and self-taught I have learned languages for FrontEnd and BanckEnd so I develop myself well as Full Stack Developer. I like to be constantly learning new technologies, creating solutions to current problems and listening to music.
+=======
+I am a Computer Systems Engineer with experience working as a Backend Developer, specializing in Java, Spring Boot, ASP.NET Core, and JUnit Testing, focused on building scalable, efficient systems. Since graduating from Fidélitas University, I have worked on diverse projects, deepening my backend skills with PostgreSQL, MongoDB, and RESTful services. I am committed to continuous learning and contributing to
+innovative projects in the technology sector.
+>>>>>>> acca04d4dcce169140d2f5f77ba265288e16c845
 
 * 🌍  I'm based in Costa Rica
 * 🖥️  See my portfolio at [Ronald Portfolio](http://ronaldsancho.github.io/Portfolio_Ronald/)
@@ -68,6 +73,9 @@ I am a recent graduate from Fidelitas University in Computer Systems Engineering
                     <a href="https://learn.microsoft.com/en-us/dotnet/core/introduction" target="_blank" rel="noreferrer"> 
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" 
                     alt="dotnetcore" width="40" height="40"/></a>
+                    <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> 
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+                    alt="springboot" width="40" height="40"/></a>
                 </p>
             </td>
         </tr>
@@ -99,9 +107,6 @@ I am a recent graduate from Fidelitas University in Computer Systems Engineering
                     <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
                     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" 
                     alt="postman" width="40" height="40"/></a>
-                    <a href="https://helpx.adobe.com/mx/xd/get-started.html" target="_blank" rel="noreferrer"> 
-                    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" 
-                    alt="adobexd" width="40" height="40"/></a>
                 </p>
             </td>
             <td valign="top" width="33%">
@@ -132,9 +137,5 @@ I am a recent graduate from Fidelitas University in Computer Systems Engineering
 
 <b>My GitHub Stats</b>
 
-<div align="center"> <a> <img src="https://github.com/RonaldSancho/RonaldSancho/blob/master/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
-
-![](./profile-3d-contrib/profile-green-animate.svg)
-
-<!-- ![](./profile-3d-contrib/profile-night-view.svg) -->
+![](./profile-3d-contrib/profile-night-green.svg)
 
